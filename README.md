@@ -24,3 +24,4 @@ Layout notes for 30x35 Outline
 ![30x35_outline2f](https://github.com/bobu01/30x35_outline/blob/main/30x35_outline2f.jpg)
 ![30x35_outline2b](https://github.com/bobu01/30x35_outline/blob/main/30x35_outline2b.jpg)
 
+![Screenshot_2024-06-25_21-37-51](https://github.com/bobu01/30x35_outline/assets/92656071/4345aeee-d3de-411c-95e7-96fa2977106c)

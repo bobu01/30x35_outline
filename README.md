@@ -6,7 +6,7 @@ Outline was inspired by https://github.com/OLIMEX/BB-CH340T
 
 Layout notes for 30x35 Outline
 
--- Trying to follow JLCPCB 2-layer design rules -- (have not fabbed yet)
+-- Trying to follow JLCPCB https://jlcpcb.com/ 2-layer design rules -- (have not fabbed yet)
 
 -- KiCAD PCB design template --
 

@@ -1,8 +1,11 @@
 30x35 mm PCB design in Kicad. 2-layer board. Basic board with 10 pin header on edge.
 
 Layout notes for 30x35 Outline
+
 -- Trying to follow JLCPCB 2-layer design rules --
+
 -- KiCAD PCB design template --
+
 1. Back Copper plane is GND net, 45 deg hatch, 0.25 mm (10 mil) stripe, 0.75 mm (30 mil) gap
 2. Layers renamed:  Front -> F.Cu, Back -> B.Cu, Silkscreens -> Silks
 3. Track width 1.0 mm (39 mil) defined.

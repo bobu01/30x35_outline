@@ -1,5 +1,7 @@
 30x35 mm PCB design in Kicad. 2-layer board. Basic board with 10 pin header on edge.
 
+A nice size for experiments. Plug vertically into solderless breadboard.  Original outline was inspired by ...
+
 Layout notes for 30x35 Outline
 
 -- Trying to follow JLCPCB 2-layer design rules --
